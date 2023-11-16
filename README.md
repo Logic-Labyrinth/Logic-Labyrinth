@@ -23,7 +23,7 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/LogicLabyrinth/MysticMaze.git
 ```
 ### Usage
-- Familiarize yourself with the project structure and existing codebase.
+- Familiarise yourself with the project structure and existing codebase.
 - Use designated branches for specific features or bug fixes.
 - Before committing changes, ensure adherence to coding standards and project guidelines.
 - Communicate and collaborate with team members regularly to maintain project coherence.
@@ -42,8 +42,8 @@ git clone https://github.com/LogicLabyrinth/MysticMaze.git
 ### Channels
 We use the following channels for communication:
 - Discord: Logic Labyrinth Discord Server
-- Email: logiclabyrinth@example.com
-- Weekly meetings: Every Friday at 4 PM in Room XYZ
+- Comms: Elise (Lead Producer) u2072622@unimail.hud.ac.uk
+- Weekly meetings: Every Thursday at 1:30 PM
 ### Contribution Guidelines
 - Be respectful and considerate towards all team members.
 - Actively participate in discussions and decision-making processes.
