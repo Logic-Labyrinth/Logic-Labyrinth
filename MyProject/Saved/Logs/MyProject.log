@@ -1119,3 +1119,606 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.16-15.30.04:073][  0]LogViewport: Scene viewport resized to 1206x585, mode Windowed.
 [2023.11.16-15.30.04:393][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.16-15.30.04:476][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.31.51:941][290]LogDerivedDataCache: C:/Users/u2065468/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 747 files in 1292 folders with total size 64 MiB.
+[2023.11.16-15.33.44:906][291]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.16-15.33.44:914][291]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.16-15.33.44:924][292]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.16-15.33.49:847][649]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.11.16-15.33.49:849][649]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.16-15.33.58:392][459]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.16-15.33.58:402][459]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.16-15.33.58:466][461]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.16-15.34.04:159][851]LogContentBrowser: Attempting asset rename: NewWorld -> Lvl_BO_01
+[2023.11.16-15.34.04:165][851]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.34.04:165][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-15.34.04:188][851]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.16-15.34.04:779][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.16-15.34.04:798][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.16-15.34.06:943][889]LogSlate: Window 'Save Content' being destroyed
+[2023.11.16-15.34.06:960][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-15.34.07:055][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.16-15.34.07:069][889]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.010426 seconds
+[2023.11.16-15.34.07:078][889]LogSerialization: UsePackageTrailer: 'true'
+[2023.11.16-15.34.07:085][889]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_BO_01
+[2023.11.16-15.34.07:085][889]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Lvl_BO_01851F00F94E44056861C385AB3A2956C3.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_01.umap'
+[2023.11.16-15.34.07:093][889]LogFileHelpers: Saving map 'Lvl_BO_01' took 0.054
+[2023.11.16-15.34.07:108][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms
+[2023.11.16-15.34.07:111][889]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lvl_BO_01.Lvl_BO_01
+[2023.11.16-15.34.07:113][889]LightingResults: New page: Lighting Build
+[2023.11.16-15.34.07:113][889]LoadErrors: New page: Loading map: Lvl_BO_01.umap
+[2023.11.16-15.34.07:149][889]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.34.07:149][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.34.07:154][889]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.16-15.34.07:154][889]MapCheck: New page: Map Check
+[2023.11.16-15.34.07:154][889]LightingResults: New page: Lighting Build
+[2023.11.16-15.34.07:167][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-15.34.07:172][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.16-15.34.07:177][889]LogWorld: UWorld::CleanupWorld for Lvl_BO_01, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.34.07:177][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.34.07:186][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.16-15.34.07:195][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.11.16-15.34.07:198][889]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_BO_01'.
+[2023.11.16-15.34.07:198][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.34.07:198][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-15.34.07:198][889]LogAIModule: Creating AISystem for world Lvl_BO_01
+[2023.11.16-15.34.07:208][889]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.16-15.34.07:219][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.16-15.34.07:224][889]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.16-15.34.07:225][889]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.252ms to complete.
+[2023.11.16-15.34.07:225][889]LogFileHelpers: Loading map 'Lvl_BO_01' took 0.112
+[2023.11.16-15.34.07:243][889]AssetCheck: New page: Asset Save: Lvl_BO_01
+[2023.11.16-15.34.07:244][889]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl_BO_01.Lvl_BO_01
+[2023.11.16-15.34.07:253][889]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.34.11:982][320]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.16-15.34.26:663][605]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.34.26:664][605]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.34.26:666][605]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_0
+[2023.11.16-15.34.26:666][605]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_0
+[2023.11.16-15.34.27:053][640]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.34.27:053][640]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.34.27:058][640]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_1
+[2023.11.16-15.34.27:058][640]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_1
+[2023.11.16-15.34.27:137][640]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.34.37:420][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: ================================================
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: Total job queries 73, among them cache hits 2 (2.74%)
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 49 distinct outputs (72.06%)
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: RAM used: 1.34 MiB of 819.20 MiB budget. Usage: 0.16%
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2023.11.16-15.34.39:027][522]LogShaderCompilers: Display: Job execution time: average 1.49 s, max 1.49 s
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Job life time (pending + execution): average 1.57 s, max 1.57
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.57 s
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Average processing rate: 0.64 jobs/sec
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Total thread time: 0.803 s
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Total thread preprocess time: 0.043 s
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Percentage time preprocessing: 5.33%
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Effective parallelization: 0.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.11.16-15.34.39:028][522]LogShaderCompilers: Display: ================================================
+[2023.11.16-15.34.39:382][535]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.34.39:382][535]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.34.39:382][535]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_0
+[2023.11.16-15.34.39:382][535]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_0
+[2023.11.16-15.34.39:492][537]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.16-15.34.40:423][601]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.34.40:423][601]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.34.40:424][601]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_1
+[2023.11.16-15.34.40:424][601]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_1
+[2023.11.16-15.34.40:454][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.34.58:605][339]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.11.16-15.34.58:605][339]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.11.16-15.34.58:606][339]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SphereReflectionCapture_0
+[2023.11.16-15.34.58:608][339]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SphereReflectionCapture_0
+[2023.11.16-15.34.59:717][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.11.16-15.34.59:717][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SphereReflectionCapture
+[2023.11.16-15.34.59:719][402]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SphereReflectionCapture_1
+[2023.11.16-15.34.59:719][402]LogActorFactory: Actor Factory spawned Class /Script/Engine.SphereReflectionCapture as actor: SphereReflectionCapture /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SphereReflectionCapture_1
+[2023.11.16-15.34.59:744][402]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.35.02:934][633]Cmd: DELETE
+[2023.11.16-15.35.02:934][633]Cmd: ACTOR DELETE
+[2023.11.16-15.35.02:967][633]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.11.16-15.35.02:979][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.16-15.35.02:980][633]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.11.16-15.36.04:264][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.16-15.36.04:277][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.16-15.36.05:406][589]LogSlate: Window 'Save Content' being destroyed
+[2023.11.16-15.36.05:417][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-15.36.05:531][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.16-15.36.05:536][589]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_BO_01
+[2023.11.16-15.36.05:537][589]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Lvl_BO_01B76A80A546D724CE4AD2FA8F084E221A.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_01.umap'
+[2023.11.16-15.36.05:549][589]LogFileHelpers: Saving map 'Lvl_BO_01' took 0.031
+[2023.11.16-15.36.05:558][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 289 ms)
+[2023.11.16-15.36.05:661][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.05:663][589]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.11.16-15.36.05:663][589]LightingResults: New page: Lighting Build
+[2023.11.16-15.36.05:663][589]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2023.11.16-15.36.05:665][589]LogWorld: UWorld::CleanupWorld for Lvl_BO_01, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.36.05:665][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.36.05:666][589]MapCheck: New page: Map Check
+[2023.11.16-15.36.05:666][589]LightingResults: New page: Lighting Build
+[2023.11.16-15.36.05:675][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-15.36.05:677][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.16-15.36.05:678][589]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.36.05:678][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.36.05:691][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.16-15.36.05:703][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.16-15.36.05:715][589]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.11.16-15.36.05:716][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.05:716][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-15.36.05:716][589]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.16-15.36.05:717][589]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.16-15.36.05:717][589]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.16-15.36.05:717][589]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.16-15.36.05:769][589]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.16-15.36.05:769][589]LogWorldPartition: Display: WorldPartition initialize took 51 ms (total: 698 ms)
+[2023.11.16-15.36.05:785][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.16-15.36.05:798][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.16-15.36.05:801][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.16-15.36.05:801][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.526ms to complete.
+[2023.11.16-15.36.05:801][589]LogFileHelpers: Loading map 'FirstPersonMap' took 0.139
+[2023.11.16-15.36.05:826][589]AssetCheck: New page: Asset Save: Lvl_BO_01
+[2023.11.16-15.36.05:835][589]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.07:038][658]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.17:445][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.32:912][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.16-15.36.33:008][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.33:009][279]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lvl_BO_01.Lvl_BO_01
+[2023.11.16-15.36.33:010][279]LightingResults: New page: Lighting Build
+[2023.11.16-15.36.33:010][279]LoadErrors: New page: Loading map: Lvl_BO_01.umap
+[2023.11.16-15.36.33:014][279]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.36.33:014][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.36.33:018][279]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.16-15.36.33:018][279]MapCheck: New page: Map Check
+[2023.11.16-15.36.33:018][279]LightingResults: New page: Lighting Build
+[2023.11.16-15.36.33:029][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-15.36.33:033][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.16-15.36.33:035][279]LogWorld: UWorld::CleanupWorld for Lvl_BO_01, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.36.33:035][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.36.33:044][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.16-15.36.33:053][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.16-15.36.33:056][279]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_BO_01'.
+[2023.11.16-15.36.33:056][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.33:056][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-15.36.33:057][279]LogAIModule: Creating AISystem for world Lvl_BO_01
+[2023.11.16-15.36.33:065][279]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.16-15.36.33:076][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.16-15.36.33:079][279]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.16-15.36.33:079][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.255ms to complete.
+[2023.11.16-15.36.33:079][279]LogFileHelpers: Loading map 'Lvl_BO_01' took 0.070
+[2023.11.16-15.36.33:110][279]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.33:110][279]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.33:111][279]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.36:760][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.43:135][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.11.16-15.36.43:138][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.11.16-15.36.43:138][ 38]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_0
+[2023.11.16-15.36.43:146][ 38]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.44:091][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.11.16-15.36.44:091][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.11.16-15.36.44:093][112]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_1
+[2023.11.16-15.36.44:126][112]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.36.53:915][804]Cmd: DELETE
+[2023.11.16-15.36.53:915][804]Cmd: ACTOR DELETE
+[2023.11.16-15.36.53:917][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.16-15.36.53:929][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.16-15.36.53:931][804]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.11.16-15.36.56:845][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.36.56:989][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.37.15:650][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.37.15:708][592]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.38.45:096][490]Cmd: DELETE
+[2023.11.16-15.38.45:096][490]Cmd: ACTOR DELETE
+[2023.11.16-15.38.45:097][490]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.11.16-15.38.45:109][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.16-15.38.45:111][490]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.11.16-15.38.45:665][535]Cmd: DELETE
+[2023.11.16-15.38.45:666][535]Cmd: ACTOR DELETE
+[2023.11.16-15.38.45:667][535]LogEditorActor: Deleted Actor: SkyLight
+[2023.11.16-15.38.45:681][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.16-15.38.45:682][535]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.11.16-15.38.48:649][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.11.16-15.38.48:649][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.11.16-15.38.48:649][776]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_2
+[2023.11.16-15.38.48:663][776]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_2
+[2023.11.16-15.38.49:233][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.11.16-15.38.49:233][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.11.16-15.38.49:235][813]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_3
+[2023.11.16-15.38.49:235][813]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_3
+[2023.11.16-15.38.49:275][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: ================================================
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Total job queries 99, among them cache hits 3 (3.03%)
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Tracking 93 distinct input hashes that result in 60 distinct outputs (64.52%)
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: RAM used: 1.85 MiB of 819.20 MiB budget. Usage: 0.23%
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Shaders Compiled: 26
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Jobs assigned 29, completed 26 (89.66%)
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Average time worker was idle: 38.64 s
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 2.32 s
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Job execution time: average 1.57 s, max 2.59 s
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Job life time (pending + execution): average 1.88 s, max 3.64
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.33 s
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Average processing rate: 1.81 jobs/sec
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Total thread time: 28.406 s
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Total thread preprocess time: 1.133 s
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Percentage time preprocessing: 3.99%
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Effective parallelization: 1.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.52 sec, max 1.94 sec, min 1.00 sec)
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.36 sec, max 1.69 sec, min 0.89 sec)
+[2023.11.16-15.38.50:492][880]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.22 sec, max 1.22 sec, min 1.22 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.14 sec, max 1.47 sec, min 0.73 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.68% of total time (compiled    5 times, average 1.52 sec, max 1.94 sec, min 1.00 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.96% of total time (compiled    5 times, average 1.36 sec, max 1.69 sec, min 0.89 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.04% of total time (compiled    4 times, average 1.14 sec, max 1.47 sec, min 0.73 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.16% of total time (compiled    5 times, average 0.86 sec, max 1.24 sec, min 0.50 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.29% of total time (compiled    1 times, average 1.22 sec, max 1.22 sec, min 1.22 sec)
+[2023.11.16-15.38.50:493][880]LogShaderCompilers: Display: ================================================
+[2023.11.16-15.38.53:259][ 39]Cmd: DELETE
+[2023.11.16-15.38.53:259][ 39]Cmd: ACTOR DELETE
+[2023.11.16-15.38.53:260][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.16-15.38.53:275][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-15.38.53:276][ 39]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.11.16-15.38.56:914][326]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.11.16-15.38.56:972][326]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.38.58:217][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.38.58:218][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.01:289][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.01:289][619]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.05:687][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.05:687][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.08:306][139]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.08:307][139]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.09:908][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.09:909][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.12:668][459]Cmd: SELECT NONE
+[2023.11.16-15.39.18:168][830]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.18:168][830]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.18:168][830]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_0
+[2023.11.16-15.39.18:168][830]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_0
+[2023.11.16-15.39.19:095][899]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.19:095][899]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.19:097][899]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_1
+[2023.11.16-15.39.19:097][899]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_1
+[2023.11.16-15.39.19:125][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.20:429][989]Cmd: DELETE
+[2023.11.16-15.39.20:429][989]Cmd: ACTOR DELETE
+[2023.11.16-15.39.20:431][989]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.11.16-15.39.20:445][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.16-15.39.20:446][989]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.11.16-15.39.21:736][ 89]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.39.21:736][ 89]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.39.21:737][ 89]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_0
+[2023.11.16-15.39.21:737][ 89]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_0
+[2023.11.16-15.39.22:099][117]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.39.22:099][117]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.39.22:100][117]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_2
+[2023.11.16-15.39.22:100][117]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_2
+[2023.11.16-15.39.22:123][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.30:429][709]Cmd: DELETE
+[2023.11.16-15.39.30:429][709]Cmd: ACTOR DELETE
+[2023.11.16-15.39.30:430][709]LogEditorActor: Deleted Actor: SkyLight
+[2023.11.16-15.39.30:444][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.16-15.39.30:445][709]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.11.16-15.39.32:016][833]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.16-15.39.32:016][833]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.16-15.39.32:441][850]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.16-15.39.32:441][850]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.16-15.39.32:466][850]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.34:203][966]Cmd: DELETE
+[2023.11.16-15.39.34:204][966]Cmd: ACTOR DELETE
+[2023.11.16-15.39.34:207][966]LogEditorActor: Deleted Actor: RectLight
+[2023.11.16-15.39.34:219][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.16-15.39.34:223][966]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.11.16-15.39.36:333][132]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.36:333][132]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.36:334][132]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_2
+[2023.11.16-15.39.36:334][132]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_2
+[2023.11.16-15.39.37:165][198]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.37:165][198]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.11.16-15.39.37:167][198]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_3
+[2023.11.16-15.39.37:167][198]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.DirectionalLight_3
+[2023.11.16-15.39.37:190][198]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.39.51:023][ 68]Cmd: SELECT NONE
+[2023.11.16-15.40.04:067][ 88]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.40.04:067][ 88]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.40.04:068][ 88]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_0
+[2023.11.16-15.40.04:068][ 88]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_0
+[2023.11.16-15.40.04:696][135]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.40.04:696][135]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.11.16-15.40.04:697][135]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_2
+[2023.11.16-15.40.04:698][135]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyAtmosphere_2
+[2023.11.16-15.40.04:717][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.40.40:621][678]LogEditorViewport: Clicking Background
+[2023.11.16-15.41.02:803][303]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.16-15.41.49:506][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-15.41.49:509][528]PIE: New page: PIE session: Lvl_BO_01 (16 Nov 2023, 15:41:49)
+[2023.11.16-15.41.49:513][528]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.16-15.41.49:515][528]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.11.16-15.41.49:518][528]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_BO_01
+[2023.11.16-15.41.49:522][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004237s)
+[2023.11.16-15.41.49:522][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_BO_01.Lvl_BO_01 to /Game/Levels/UEDPIE_0_Lvl_BO_01.Lvl_BO_01 (0.004330s)
+[2023.11.16-15.41.49:522][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-15.41.49:523][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-15.41.49:523][528]LogAIModule: Creating AISystem for world Lvl_BO_01
+[2023.11.16-15.41.49:525][528]LogPlayLevel: PIE: World Init took: (0.002544s)
+[2023.11.16-15.41.49:536][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.16-15.41.49:540][528]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.16-15.41.49:540][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.16-15.41.49:540][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-15.41.49:541][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-15.41.49:541][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-15.41.49:541][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-15.41.49:543][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-15.41.49:580][528]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.16-15.41.49:580][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-15.41.49:580][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-15.41.49:580][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-15.41.49:582][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.16-15.41.49:582][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.16-15.41.49:584][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.16-15.41.49:584][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.16-15.41.49:584][528]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.16-15.41.49:584][528]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_BO_01'.
+[2023.11.16-15.41.49:584][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.16-15.41.49:593][528]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.16-15.41.49:595][528]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_BO_01.Lvl_BO_01 up for play (max tick rate 0) at 2023.11.16-15.41.49
+[2023.11.16-15.41.49:598][528]LogWorld: Bringing up level for play took: 0.003362
+[2023.11.16-15.41.49:600][528]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.11.16-15.41.49:700][528]PIE: Server logged in
+[2023.11.16-15.41.49:701][528]PIE: Play in editor total start time 0.202 seconds.
+[2023.11.16-15.41.49:769][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.49:770][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.49:770][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.49:771][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.49:771][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.49:772][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.58:578][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-15.41.58:578][210]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_BO_01
+[2023.11.16-15.41.58:580][210]LogWorld: UWorld::CleanupWorld for Lvl_BO_01, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-15.41.58:581][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.41.58:587][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-15.41.58:590][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-15.41.58:599][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-15.41.58:599][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.16-15.41.58:599][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.16-15.41.58:601][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.16-15.41.58:606][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-15.41.58:608][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.16-15.41.58:634][210]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.58:634][210]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.58:635][210]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.58:635][210]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.41.58:671][211]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.11.16-15.41.59:844][291]Cmd: SELECT NONE
+[2023.11.16-15.42.00:424][339]LogEditorViewport: Clicking Background
+[2023.11.16-15.42.02:195][469]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.42.02:196][469]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.42.02:196][469]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_3
+[2023.11.16-15.42.02:196][469]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_3
+[2023.11.16-15.42.02:458][484]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.42.02:458][484]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.11.16-15.42.02:460][484]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_4
+[2023.11.16-15.42.02:460][484]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.SkyLight_4
+[2023.11.16-15.42.02:482][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-15.42.10:038][981]Cmd: SELECT NONE
+[2023.11.16-15.46.42:377][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.16-15.46.42:396][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Lvl_BO_01_Auto1
+[2023.11.16-15.46.42:396][236]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Lvl_BO_01_Auto1F6627B1240439D51086B2782581A66D2.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Autosaves/Game/Levels/Lvl_BO_01_Auto1.umap'
+[2023.11.16-15.46.42:407][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_BO_01' took 0.041
+[2023.11.16-15.46.42:407][236]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.11.16-16.03.27:171][376]Cmd: DELETE
+[2023.11.16-16.03.27:171][376]Cmd: ACTOR DELETE
+[2023.11.16-16.03.27:176][376]LogEditorActor: Deleted Actor: Brush
+[2023.11.16-16.03.27:190][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.16-16.03.27:210][376]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.11.16-16.03.27:219][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.03.27:219][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.03.27:220][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.03.27:221][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.03.32:674][716]LogSlate: Window 'Mode Toolbar' being destroyed
+[2023.11.16-16.03.32:680][716]LogSlate: Window 'Level Statistics' being destroyed
+[2023.11.16-16.03.35:836][871]LogSlate: Window 'Mode Toolbar' being destroyed
+[2023.11.16-16.03.41:575][242]LogSlate: Window 'Mode Toolbar' being destroyed
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: ================================================
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Total job queries 113, among them cache hits 7 (6.19%)
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Tracking 103 distinct input hashes that result in 68 distinct outputs (66.02%)
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: RAM used: 2.08 MiB of 819.20 MiB budget. Usage: 0.25%
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Shaders Compiled: 36
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Jobs assigned 39, completed 36 (92.31%)
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Average time worker was idle: 198.21 s
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 2.32 s
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 3.10 s
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 3.64
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.92 s
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Average processing rate: 1.72 jobs/sec
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Total thread time: 39.482 s
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Total thread preprocess time: 1.523 s
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Percentage time preprocessing: 3.86%
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Effective parallelization: 1.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.11.16-16.03.49:018][704]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.45 sec, max 1.94 sec, min 1.00 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 1.36 sec, max 1.69 sec, min 0.89 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.18 sec, max 1.47 sec, min 0.73 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.39% of total time (compiled    8 times, average 1.45 sec, max 1.94 sec, min 1.00 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.61% of total time (compiled    8 times, average 1.36 sec, max 1.69 sec, min 0.89 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.91% of total time (compiled    5 times, average 1.18 sec, max 1.47 sec, min 0.73 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.91% of total time (compiled    5 times, average 0.86 sec, max 1.24 sec, min 0.50 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.54% of total time (compiled    2 times, average 1.09 sec, max 1.22 sec, min 0.97 sec)
+[2023.11.16-16.03.49:019][704]LogShaderCompilers: Display: ================================================
+[2023.11.16-16.08.54:824][632]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_E7DDF5CD...
+[2023.11.16-16.08.54:833][632]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.08.54:853][632]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_E7DDF5CD...
+[2023.11.16-16.08.54:853][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.08.54:854][632]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_4
+[2023.11.16-16.08.54:865][632]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.08.54:867][632]LogStaticMesh: Warning: CubeGridToolOutput_E7DDF5CD has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.11.16-16.08.54:867][632]LogStaticMesh: Warning: CubeGridToolOutput_E7DDF5CD has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.11.16-16.09.00:140][632]LogMeshUtilities: Finished distance field build in 5.3s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 562 triangles, CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.09.00:222][632]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.09.06:398][ 22]LogMeshUtilities: Finished distance field build in 6.2s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 562 triangles, CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.09.21:547][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.11.16-16.09.21:552][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-16.09.21:637][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.16-16.09.21:643][923]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_BO_01
+[2023.11.16-16.09.21:645][923]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Lvl_BO_010250CD6F42E690B515CD1B851589213A.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_01.umap'
+[2023.11.16-16.09.21:654][923]LogFileHelpers: Saving map 'Lvl_BO_01' took 0.027
+[2023.11.16-16.09.21:693][923]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.09.21:693][923]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/CubeGridToolOutput_E7DDF5CD7750A00C4FA4B6D38BB153AD46A4D27D.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.uasset'
+[2023.11.16-16.09.21:714][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 452 ms)
+[2023.11.16-16.09.21:719][923]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.16-16.09.21:719][923]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl_BO_01.Lvl_BO_01
+[2023.11.16-16.09.21:719][923]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.09.34:760][730]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2023.11.16-16.09.34:760][730]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2023.11.16-16.09.34:761][730]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.TextRenderActor_0
+[2023.11.16-16.09.34:761][730]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.TextRenderActor_0
+[2023.11.16-16.09.35:671][779]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2023.11.16-16.09.35:671][779]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2023.11.16-16.09.35:673][779]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.TextRenderActor_1
+[2023.11.16-16.09.35:673][779]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.TextRenderActor_1
+[2023.11.16-16.09.35:701][779]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: ================================================
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: Total job queries 121, among them cache hits 10 (8.26%)
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: Tracking 111 distinct input hashes that result in 75 distinct outputs (67.57%)
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: RAM used: 2.30 MiB of 819.20 MiB budget. Usage: 0.28%
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: Shaders Compiled: 44
+[2023.11.16-16.09.36:462][821]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100.00%)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Average time worker was idle: 182.71 s
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 2.32 s
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 3.50 s
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Job life time (pending + execution): average 2.04 s, max 3.64
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.53 s
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Average processing rate: 1.66 jobs/sec
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Total thread time: 50.37 s
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Total thread preprocess time: 3.52 s
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Percentage time preprocessing: 6.99%
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Effective parallelization: 1.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 1.52 sec, max 2.31 sec, min 1.00 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 1.40 sec, max 2.09 sec, min 0.89 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.30 sec, max 1.57 sec, min 1.12 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    5 times, average 1.18 sec, max 1.47 sec, min 0.73 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.67% of total time (compiled   11 times, average 1.40 sec, max 2.09 sec, min 0.89 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.10% of total time (compiled   10 times, average 1.52 sec, max 2.31 sec, min 1.00 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.68% of total time (compiled    5 times, average 1.18 sec, max 1.47 sec, min 0.73 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.55% of total time (compiled    5 times, average 0.86 sec, max 1.24 sec, min 0.50 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.76% of total time (compiled    3 times, average 1.30 sec, max 1.57 sec, min 1.12 sec)
+[2023.11.16-16.09.36:463][821]LogShaderCompilers: Display: ================================================
+[2023.11.16-16.10.05:882][641]Cmd: SELECT NONE
+[2023.11.16-16.10.15:934][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.15:935][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.15:937][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.15:937][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.15:938][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.15:938][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.15:940][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.10.38:442][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.16-16.10.38:449][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-16.10.38:542][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.16-16.10.38:549][627]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_BO_01
+[2023.11.16-16.10.38:550][627]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Lvl_BO_010E44DA6E46450A2C866714A4DC23D00D.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_01.umap'
+[2023.11.16-16.10.38:559][627]LogFileHelpers: Saving map 'Lvl_BO_01' took 0.029
+[2023.11.16-16.10.38:584][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 586 ms)
+[2023.11.16-16.10.38:587][627]AssetCheck: New page: Asset Save: Lvl_BO_01
+[2023.11.16-16.10.38:587][627]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl_BO_01.Lvl_BO_01
+[2023.11.16-16.10.59:988][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.16-16.10.59:988][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.16-16.10.59:989][971]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_5
+[2023.11.16-16.10.59:989][971]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_5
+[2023.11.16-16.11.00:597][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.16-16.11.00:597][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.16-16.11.00:599][997]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_6
+[2023.11.16-16.11.00:599][997]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Levels/Lvl_BO_01.Lvl_BO_01:PersistentLevel.StaticMeshActor_6
+[2023.11.16-16.11.00:637][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:016][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:017][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:018][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:019][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:019][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:020][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.11:022][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:518][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:518][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:519][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:521][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:521][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:522][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.12:524][690]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.13:973][779]Cmd: DELETE
+[2023.11.16-16.11.13:973][779]Cmd: ACTOR DELETE
+[2023.11.16-16.11.13:977][779]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.16-16.11.13:994][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.11.16-16.11.13:998][779]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.11.16-16.11.18:818][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.18:819][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.18:819][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.18:820][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.11.18:848][ 85]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.16:098][535]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD) ...
+[2023.11.16-16.14.16:125][535]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_E7DDF5CD...
+[2023.11.16-16.14.16:143][535]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD) ...
+[2023.11.16-16.14.16:145][535]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.14.16:150][535]LogStaticMesh: Warning: CubeGridToolOutput_E7DDF5CD has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.11.16-16.14.16:150][535]LogStaticMesh: Warning: CubeGridToolOutput_E7DDF5CD has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.11.16-16.14.18:895][681]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.18:895][681]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.18:896][681]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.18:897][681]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:125][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:127][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:129][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:130][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:130][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:131][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.20:132][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.22:228][871]LogMeshUtilities: Finished distance field build in 6.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 919 triangles, CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.14.26:372][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.26:372][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.26:373][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.26:375][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.26:376][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.26:378][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.26:380][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.16-16.14.27:636][150]Cmd: SELECT NONE
+[2023.11.16-16.14.32:074][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.16-16.14.32:082][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-16.14.32:171][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.11.16-16.14.32:179][441]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_BO_01
+[2023.11.16-16.14.32:181][441]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/Lvl_BO_01520B08DB45CA219200DC518FBDA4451F.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_01.umap'
+[2023.11.16-16.14.32:199][441]LogFileHelpers: Saving map 'Lvl_BO_01' took 0.039
+[2023.11.16-16.14.32:234][441]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.14.32:235][441]LogSavePackage: Moving '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Saved/CubeGridToolOutput_E7DDF5CDD7C05CDB4BD73E5EC0B6738A81E7047C.tmp' to '../../../../../../Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.uasset'
+[2023.11.16-16.14.32:260][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 764 ms)
+[2023.11.16-16.14.32:265][441]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.16-16.14.32:265][441]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl_BO_01.Lvl_BO_01
+[2023.11.16-16.14.32:265][441]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.CubeGridToolOutput_E7DDF5CD
+[2023.11.16-16.15.33:347][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
