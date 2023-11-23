@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPersonArms/Animations/SlidingDown.uasset",
+				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Input/Actions/IA_Dash.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Input/IMC_Default.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
