@@ -5,9 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/user/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_Bo_02.umap",
 				"C:/Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_01.umap",
 				"C:/Users/u2065468/OneDrive - University of Huddersfield/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/_GENERATED/u2065468/CubeGridToolOutput_E7DDF5CD.uasset",
+				"C:/Users/u2065468/OneDrive - University of Huddersfield/Documents/Unreal Projects/Logic-Labyrinth/MyProject/Content/Levels/Lvl_BO_03.umap",
+				"C:/Users/u2065468/OneDrive - University of Huddersfield/Documents/Unreal Projects/Logic-Labyrinth/MyProject/Content/Box_Brush13_StaticMesh.uasset",
+				"C:/Users/u2065468/OneDrive - University of Huddersfield/Documents/Unreal Projects/Logic-Labyrinth/MyProject/Content/Box_Brush13_StaticMesh1.uasset",
+				"C:/Users/user/Documents/GitHub/Logic-Labyrinth/MyProject/Content/Levels/Lvl_Bo_02.umap",
 				"C:/Users/U1551469/OneDrive - University of Huddersfield/Logic Labyrinth/Logic-Labyrinth/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
