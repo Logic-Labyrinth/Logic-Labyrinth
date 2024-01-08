@@ -5,13 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPersonArms/Animations/SlidingDown.uasset",
-				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Input/Actions/IA_Dash.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Input/IMC_Default.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Input/Actions/IA_Slide.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/SQ/E3X377TMZB8B4EA3B5WBNC.uasset",
+				"D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPersonArms/Animations/SlidingDown.uasset",
+				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/New folder/Logic-Labyrinth/MyProject/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"C:/Users/U1551469/OneDrive - University of Huddersfield/Logic Labyrinth/Logic-Labyrinth/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
