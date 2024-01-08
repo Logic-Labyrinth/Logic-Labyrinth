@@ -5043,3 +5043,294 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-15.49.17:476][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 4.06 sec)
 [2024.01.08-15.49.17:484][ 97]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2024.01.08-15.49.17:484][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.08-16.07.53:910][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.08-16.07.53:913][898]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2024.01.08-16.07.53:913][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.08-16.07.53:913][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.08-16.07.53:964][898]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2024.01.08-16.07.53:964][898]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacter_Auto9796E64CD4B04FC26363BDC9E978998BB.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2024.01.08-16.07.53:965][898]LogFileHelpers: Auto-saving content packages took 0.053
+[2024.01.08-16.09.52:647][ 74]LogDerivedDataCache: C:/Users/u2061581/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 308 files in 568 folders with total size 1 MiB.
+[2024.01.08-16.11.47:531][158]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.01.08-16.11.47:671][158]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.17.54:123][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.08-16.17.54:126][670]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2024.01.08-16.17.54:127][670]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.08-16.17.54:144][670]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.01.08-16.17.54:144][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.08-16.17.54:194][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto0
+[2024.01.08-16.17.54:194][670]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacter_Auto08B3A1E0A4B1E6F5F06BEACA2EAC0DA42.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto0.uasset'
+[2024.01.08-16.17.54:195][670]LogFileHelpers: Auto-saving content packages took 0.070
+[2024.01.08-16.21.30:824][810]LogVSAccessor: Warning: Couldn't set focus on Visual Studio.
+[2024.01.08-16.21.30:824][810]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:928][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:929][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:930][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:931][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:932][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:933][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:934][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:934][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:934][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:934][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:934][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:942][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:942][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:942][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:942][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:946][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:957][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:968][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:968][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:975][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:976][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:979][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:980][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:980][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:982][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:982][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:989][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.30:993][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.31:018][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.31:034][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.31:038][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.21.31:038][810]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.08-16.27.54:510][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.08-16.27.54:513][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2024.01.08-16.27.54:513][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.01.08-16.27.54:513][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.01.08-16.27.54:565][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2024.01.08-16.27.54:566][611]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacter_Auto14D4CC8474F0552CE84EACC92DD105648.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2024.01.08-16.27.54:567][611]LogFileHelpers: Auto-saving content packages took 0.055
+[2024.01.08-16.31.42:360][795]LogEditorTransaction: Undo Rename Node
+[2024.01.08-16.31.42:463][795]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.31.44:024][878]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2024.01.08-16.31.44:130][878]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.32.47:776][348]LogEditorTransaction: Undo Move Nodes
+[2024.01.08-16.32.47:860][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.33.37:295][814]LogEditorTransaction: Undo Rename Node
+[2024.01.08-16.33.37:414][814]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.35.13:532][521]LogEditorTransaction: Undo Move Nodes
+[2024.01.08-16.35.13:658][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.38.26:460][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-16.38.26:534][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.01.08-16.38.26:591][172]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.08-16.38.26:591][172]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacter472F3D404AE730AC95F1EC90DA1B1140.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.08-16.38.26:598][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 4.19 sec)
+[2024.01.08-16.38.26:611][172]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.08-16.38.26:611][172]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.08-16.39.08:476][ 70]LogSlate: Took 0.007830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.08-16.39.50:772][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-16.39.50:833][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.01.08-16.39.50:892][112]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.08-16.39.50:892][112]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacter09979C8745D769E53329BAA0AF774EDB.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.08-16.39.50:900][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.32 sec)
+[2024.01.08-16.39.50:911][112]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.08-16.39.50:911][112]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.08-16.40.02:924][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-16.40.02:990][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.01.08-16.40.03:043][917]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.08-16.40.03:044][917]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacterE6AFE6DB43FBB5455490D4803B721451.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.08-16.40.03:051][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.45 sec)
+[2024.01.08-16.40.03:067][917]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.08-16.40.03:067][917]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.08-16.41.55:523][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-16.41.55:587][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2024.01.08-16.41.55:642][348]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.08-16.41.55:643][348]LogSavePackage: Moving 'D:/New folder/Logic-Labyrinth/MyProject/Saved/BP_FirstPersonCharacter4101F8154CE6769472DFB8A2C30A39E0.tmp' to 'D:/New folder/Logic-Labyrinth/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.08-16.41.55:651][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.58 sec)
+[2024.01.08-16.41.55:676][348]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.08-16.41.55:676][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.08-16.41.56:486][406]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.08-16.41.56:627][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.08-16.42.00:335][550]LogViewport: Scene viewport resized to 1276x1256, mode Windowed.
+[2024.01.08-16.42.06:055][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-16.42.06:065][925]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.08-16.42.06:067][925]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.08-16.42.06:067][925]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.08-16.42.06:067][925]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 374 us)
+[2024.01.08-16.42.06:067][925]LogWorldPartition: Display: GenerateStreaming took 214 us (total: 8 ms)
+[2024.01.08-16.42.06:068][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-16.42.06:068][925]PIE: New page: PIE session: FirstPersonMap (8 Jan 2024, 16:42:06)
+[2024.01.08-16.42.06:068][925]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.08-16.42.06:074][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005546s)
+[2024.01.08-16.42.06:074][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005583s)
+[2024.01.08-16.42.06:074][925]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-16.42.06:074][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-16.42.06:074][925]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.08-16.42.06:075][925]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.08-16.42.06:075][925]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.08-16.42.06:075][925]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.08-16.42.06:076][925]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.08-16.42.06:076][925]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.22 sec)
+[2024.01.08-16.42.06:076][925]LogPlayLevel: PIE: World Init took: (0.002602s)
+[2024.01.08-16.42.06:102][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.08-16.42.06:105][925]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.08-16.42.06:105][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.08-16.42.06:105][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-16.42.06:105][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-16.42.06:105][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-16.42.06:105][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-16.42.06:107][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-16.42.06:126][925]LogAudioMixer: Display: Using Audio Hardware Device U34G2G1 (NVIDIA High Definition Audio)
+[2024.01.08-16.42.06:126][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-16.42.06:126][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-16.42.06:126][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-16.42.06:127][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.01.08-16.42.06:127][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.01.08-16.42.06:129][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.01.08-16.42.06:129][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.01.08-16.42.06:129][925]LogInit: FAudioDevice initialized with ID 39.
+[2024.01.08-16.42.06:129][925]LogAudio: Display: Audio Device (ID: 39) registered with world 'FirstPersonMap'.
+[2024.01.08-16.42.06:129][925]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.08-16.42.06:132][925]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.08-16.42.06:135][925]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.08-16.42.06
+[2024.01.08-16.42.06:135][925]LogWorld: Bringing up level for play took: 0.002574
+[2024.01.08-16.42.06:137][925]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.01.08-16.42.06:140][925]PIE: Server logged in
+[2024.01.08-16.42.06:140][925]PIE: Play in editor total start time 0.075 seconds.
+[2024.01.08-16.42.06:167][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:167][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:167][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:168][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:168][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:168][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:169][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:169][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:169][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:170][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:174][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:174][925]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:254][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:255][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:255][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:255][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:256][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:256][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:256][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:257][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:257][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:257][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:261][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.06:261][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.16:521][781]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-7.49 Y=-508.86 Z=0.00 Location: X=1513.16 Y=1845.53 Z=96.28 Normal: X=0.00 Y=0.96 Z=-0.27 PenetrationDepth:7.867 Actor:StaticMeshActor_UAID_D017C28B47065DC101_1593883335 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2024.01.08-16.42.44:555][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-16.42.44:556][152]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.08-16.42.44:556][152]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-16.42.44:556][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-16.42.44:556][152]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.08-16.42.44:559][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-16.42.44:564][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-16.42.44:590][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-16.42.44:590][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.08-16.42.44:590][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.08-16.42.44:593][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.08-16.42.44:596][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-16.42.44:600][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.08-16.42.44:637][152]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.42.44:665][153]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.01.08-16.42.44:686][153]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.08-16.44.20:895][627]LogViewport: Scene viewport resized to 1844x1256, mode Windowed.
+[2024.01.08-16.44.26:848][671]LogViewport: Scene viewport resized to 951x582, mode Windowed.
+[2024.01.08-16.44.27:881][671]LogViewport: Scene viewport resized to 1276x1256, mode Windowed.
