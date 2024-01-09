@@ -5,7 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/U1551469/OneDrive - University of Huddersfield/Logic Labyrinth/Logic-Labyrinth/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Logic Labyrinth/Logic-Labyrinth/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/BP_Enemy_Base.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/DT/3TM18O4GHBRYEKH0NQNDS4.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/P1/JNHS06FUF78TFJGUMGMGWM.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/X6/8E2WXJBWQMKX8AGD385GJJ.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Animations/Jump_Attack.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Enemy_Base_BT.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Enemy_Base_AIC.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Enemy_Base_BB.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Tasks/BTTask_Default_Attack.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Tasks/BTTask_Special_Attack.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Animations/Jump_Attack_Montage.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Animations/Standing_Attack.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Tasks/BTTask_Focus_Target.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Enemy/AI/Tasks/BTTask_ClearFocus.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/U1551469/OneDrive - University of Huddersfield/Documents/Logic-Labyrinth/MyProject/Content/Animations/Montage_JumpAttack.uasset"
 			]
 		}
 	]
